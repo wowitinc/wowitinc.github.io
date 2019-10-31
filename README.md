@@ -1,4 +1,4 @@
-# D Woodworth (WOWIT Enterprises Inc.)
+# D W (WOWIT Enterprises Inc.)
 ![alt text](https://wowitinc.github.io/images/wowit.jpg "WOWIT Enterprises Inc.")
 
 This GitHub location will provide various projects created while supporting software testing and process improvement.  
